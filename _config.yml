@@ -1,1 +1,19 @@
 theme: jekyll-theme-tactile
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - article1.md
+  - article2.md
+  - article3.md
+  - index.md
+  - README.md
+  #- CONTRIBUTING.md
+  #- LICENSE.md
+  #- COPYING.md
+  #- CODE_OF_CONDUCT.md
+  #- CONTRIBUTING.md
+  #- ISSUE_TEMPLATE.md
+  #- PULL_REQUEST_TEMPLATE.md
