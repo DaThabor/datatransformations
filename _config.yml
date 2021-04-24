@@ -5,10 +5,11 @@ relative_links:
   enabled: true
   collections: true
 include:
+  - title.md
   - article1.md
   - article2.md
   - article3.md
-  - index.md
+  #- index.md
   #- README.md
   #- CONTRIBUTING.md
   #- LICENSE.md
