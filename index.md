@@ -1,8 +1,4 @@
 
----
-title: Guide to Data Transformations
-author: Thabr Walbeek
----
 # Data Transformations
 
 This is the introduction for the book

@@ -9,7 +9,7 @@ include:
   - article2.md
   - article3.md
   - index.md
-  - README.md
+  #- README.md
   #- CONTRIBUTING.md
   #- LICENSE.md
   #- COPYING.md
