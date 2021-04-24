@@ -1,9 +1,7 @@
 
 ---
-ebook:
-  theme: github-light.css
-  title: Guide to Data Transformations
-  author: Thabr Walbeek
+title: Guide to Data Transformations
+author: Thabr Walbeek
 ---
 # Data Transformations
 
