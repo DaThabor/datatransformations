@@ -90,10 +90,6 @@ margin: 0;
 color: #989da4
 }
 
-.powered a:hover {
-text decoration: underline;
-}
-
 .powered a:visited {
 color: #989da4;
 }
@@ -396,4 +392,5 @@ padding-top: 40px;
   .sidebar {
     margin-top: 15px;
   }
+}
 }
